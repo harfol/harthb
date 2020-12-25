@@ -20,7 +20,11 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>org.thingsboard</groupId>
+<<<<<<< HEAD
         <version>3.2.1-SNAPSHOT</version>
+=======
+        <version>3.2.0</version>
+>>>>>>> remotes/origin/release-3.2
         <artifactId>thingsboard</artifactId>
     </parent>
     <artifactId>dao</artifactId>
