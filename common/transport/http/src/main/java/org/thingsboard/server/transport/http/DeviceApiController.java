@@ -94,6 +94,8 @@ public class DeviceApiController {
                             new HttpOkCallback(responseWriter));
                     reportActivity(sessionInfo);
                 }));
+        
+
         return responseWriter;
     }
 
